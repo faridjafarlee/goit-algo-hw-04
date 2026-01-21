@@ -15,7 +15,7 @@ python sorting_benchmark.py
 
 (Опційно)
 python merge_k_lists.py
-
+```
 
 
 ## Набори даних
